@@ -1,0 +1,12 @@
+flask
+werkzeug
+torch
+Pillow
+python-dotenv
+google-generativeai
+opencv-python
+numpy
+google-cloud-aiplatform
+vertexai
+PyJWT
+requests
